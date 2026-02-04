@@ -1,0 +1,31 @@
+{
+  "name": "@landomo/scraper-norway-finn",
+  "version": "1.0.0",
+  "description": "Finn.no TypeScript Scraper - Norway's largest real estate portal",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "clean": "rm -rf dist",
+    "lint": "tsc --noEmit --strict"
+  },
+  "keywords": [
+    "finn",
+    "real estate",
+    "norway",
+    "scraper",
+    "typescript",
+    "playwright"
+  ],
+  "dependencies": {
+    "playwright": "^1.40.1",
+    "pino": "^8.16.2",
+    "pino-pretty": "^10.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3"
+  }
+}
