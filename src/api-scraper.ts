@@ -274,16 +274,16 @@ export class FinnApiScraper {
    */
   private normalizeListings(listings: Array<Record<string, unknown>>, transactionType: 'sale' | 'rent'): FinnProperty[] {
     return listings
-      .map((item) => {
+      .map((item): FinnProperty => {
         const location = item.location as any;
         return {
           id: String(item.id),
           source: 'finn.no',
-          url: item.url || `https://www.finn.no/realestate/sales/${item.id}`,
+          url: (item.url as string) || `https://www.finn.no/realestate/sales/${item.id}`,
           title: (item.heading as string) || 'Property',
           price: (item.price as number) || null,
           currency: 'NOK',
-          priceUnit: transactionType === 'rent' ? 'per_month' : 'total',
+          priceUnit: (transactionType === 'rent' ? 'per_month' : 'total') as 'total' | 'per_month',
           propertyType: (item.property_type as string) || 'property',
           transactionType,
           location: {
@@ -311,7 +311,7 @@ export class FinnApiScraper {
           scrapedAt: new Date().toISOString(),
         };
       })
-      .filter((p): p is FinnProperty => p !== null);
+      .filter((p) => p !== null);
   }
 
   /**
