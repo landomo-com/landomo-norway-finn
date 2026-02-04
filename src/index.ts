@@ -1,7 +1,8 @@
 import { FinnScraper } from './scraper.js';
+import { ScraperLogger } from './logger.js';
 import type { SearchOptions } from './types.js';
 
-const logger = createLogger('module');
+const logger = new ScraperLogger('finn-main');
 
 function parseArgs(): {
   city?: string;

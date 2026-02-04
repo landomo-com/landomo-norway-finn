@@ -11,8 +11,8 @@
  * - High reliability (99%+)
  */
 
-import { BaseApiClient } from '@shared/api-client.js';
-import { ScraperLogger } from '@shared/logger.js';
+import { BaseApiClient } from './api-client.js';
+import { ScraperLogger } from './logger.js';
 import type { SearchOptions } from './types.js';
 
 interface FinnApiConfig {

@@ -1,0 +1,1356 @@
+[
+  {
+    "request": {
+      "timestamp": "2026-01-29T21:04:30.396629",
+      "method": "GET",
+      "url": "https://www.finn.no/realestate/homes/search.html",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "post_data": null
+    },
+    "response": {
+      "timestamp": "2026-01-29T21:04:30.720443",
+      "url": "https://www.finn.no/realestate/homes/search.html",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-store",
+        "content-encoding": "br",
+        "content-security-policy": "sandbox allow-popups-to-escape-sandbox allow-scripts allow-same-origin allow-popups allow-forms allow-modals allow-downloads; report-uri /csp-report.html?app_name=objectpage",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Thu, 29 Jan 2026 21:04:30 GMT",
+        "gealb-bs": "gealb-haproxy-ingress",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "via": "1.1 google",
+        "x-content-type-options": "nosniff",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      },
+      "body": "<!DOCTYPE html>\n        <html lang=\"nb\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\"/><meta name=\"format-detection\" content=\"telephone=no\"/><link rel=\"icon\" href=\"https://www.finn.no/favicon.ico\"/><link rel=\"icon\" href=\"https://www.finn.no/favicon-t-32x32.png\" sizes=\"32x32\"/><link rel=\"icon\" href=\"https://www.finn.no/favicon-t-192x192.png\" sizes=\"192x192\"/><link rel=\"icon\" href=\"https://www.finn.no/favicon-t-96x96.png\" sizes=\"96x96\"/><link rel=\"icon\" href=\"https://www.finn.no/favicon-t-16x16.png\" sizes=\"16x16\"/><link rel=\"apple-touch-icon\" href=\"https://www.finn.no/apple-touch-icon-180x180.png\"/><meta name=\"msapplication-TileColor\" content=\"#06befb\"/><meta name=\"msapplication-TileImage\" content=\"https://www.finn.no/mstile-144x144.png\"/><meta name=\"msapplication-config\" content=\"https://www.finn.no/browserconfig.xml\"/><meta name=\"theme-color\" content=\"#ffffff\"/><link rel=\"manifest\" href=\"https://www.finn.no/manifest.json\"/><link rel=\"preconnect\" href=\"https://assets.finn.no\"/><link rel=\"preconnect\" href=\"https://images.finncdn.no\"/><link rel=\"preload\" href=\"https://assets.finn.no/pkg/@warp-ds/fonts/v1/FINNTypeAlleTegn-Light.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\"/><link rel=\"preload\" href=\"https://assets.finn.no/pkg/@warp-ds/fonts/v1/FINNTypeAlleTegn-Medium.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\"/><link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/@warp-ds/fonts/v1/finn-no.css\" crossorigin=\"anonymous\"/><link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/@warp-ds/css/v2/tokens/finn-no.css\" crossorigin=\"anonymous\"/><link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/@warp-ds/css/v2/resets.css\" crossorigin=\"anonymous\"/><link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/@warp-ds/css/v2/components.css\" crossorigin=\"anonymous\"/><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-T94FZCQF');</script><title>Bolig til salgs | FINN Eiendom</title><meta name=\"description\" content=\"Du finner 35059 boliger til salgs på FINN Eiendom. Søk og sammenlikn pris blant alle hus og leiligheter i hele Norge!\"/><script type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"SearchResultsPage\",\"url\":\"https://www.finn.no/realestate/homes/realestate/homes/search.html?https://www.finn.no/realestate/homes/search.html\",\"mainContentOfPage\":{\"@type\":\"WebPageElement\",\"cssSelector\":\"#page-results\"},\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"name\":\"Her er du\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://www.finn.no/realestate/homes/realestate/browse.html\",\"name\":\"Eiendom\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https://www.finn.no/realestate/homes/realestate/homes/search.html\",\"name\":\"Bolig til salgs\"}}]},\"headline\":\"Bolig til salgs \"}</script><link rel=\"canonical\" href=\"https://www.finn.no/realestate/homes/search.html\"/><meta name=\"robots\" content=\"noimageindex\"/><meta name=\"og:url\" content=\"https://www.finn.no/realestate/homes/search.html\"/><meta name=\"og:title\" content=\"Bolig til salgs | FINN Eiendom\"/><meta name=\"og:description\" content=\"Du finner 35059 boliger til salgs på FINN Eiendom. Søk og sammenlikn pris blant alle hus og leiligheter i hele Norge!\"/><meta name=\"og:image\" content=\"https://images.finncdn.no/dynamic/480w/2026/1/vertical-2/12/6/445/798/696_8a9536d7-8586-4093-bfec-08f6ae4df4d2.jpg\"/><meta name=\"csrf-token\"/><meta name=\"theme-color\" content=\"#0ABEFB\"/><link href=\"https://assets.finn.no/pkg/advertising-podlet/1.1.326/client/index.css\" rel=\"stylesheet\"/><link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/realestate-front/2.1.48/build/client/assets/root-BiKJPdve.css\"/><link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/realestate-front/2.1.48/build/client/assets/_subvertical.search_-aBEjLknN.css\"/></head><body><noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T94FZCQF\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript><nav aria-label=\"Hopp til innhold\"><a href=\"#filters-heading\" class=\"sr-only focus:not-sr-only\">Gå til filtre</a><a href=\"#skip-to-results\" class=\"sr-only focus:not-sr-only\">Gå til resultat</a></nav><div>\n        <!-- FINN HEADER (VERSION: github-action-job-6362890-301-1) -->\n        <style>html { font-size: 62.5%; }</style>\n        <!--lit-part dpdi7DWzyz4=--><!--lit-node 0--><link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/@warp-ds/fonts/v1/finn-no.css\" />\n                <!--lit-node 1--><link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/@warp-ds/css/v2/tokens/finn-no.css\" />\n                <span>\n                    <!--lit-node 3--><finn-topbar\n                        \n           ... [truncated]"
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2026-01-29T21:04:31.079934",
+      "method": "GET",
+      "url": "https://cmpv2.finn.no/wrapper/v2/meta-data?hasCsp=true&accountId=1960&env=prod&metadata=%7B%22gdpr%22%3A%7B%7D%7D&propertyId=35386&scriptVersion=4.39.0&scriptType=unified",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.finn.no/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    "response": {
+      "timestamp": "2026-01-29T21:04:31.160517",
+      "url": "https://cmpv2.finn.no/wrapper/v2/meta-data?hasCsp=true&accountId=1960&env=prod&metadata=%7B%22gdpr%22%3A%7B%7D%7D&propertyId=35386&scriptVersion=4.39.0&scriptType=unified",
+      "status": 200,
+      "headers": {
+        "age": "1137",
+        "access-control-allow-methods": "GET, PUT, POST, DELETE",
+        "x-cache": "Hit from cloudfront",
+        "x-amz-cf-id": "2HYprzcqAleP1l7lfpW334dfnlliO0_ktXbR63aZEF2_AJa0hOXIpQ==",
+        "date": "Thu, 29 Jan 2026 20:45:34 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "vary": "Accept-Encoding",
+        "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept, Authorization, SP_SCRIPT_VERSION",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "cache-control": "max-age=3600, s-maxage=3600",
+        "access-control-allow-credentials": "true",
+        "via": "1.1 edd6d90087c4f2b49e182778a2273adc.cloudfront.net (CloudFront)",
+        "access-control-allow-origin": "*",
+        "content-length": "227",
+        "x-amz-cf-pop": "AMS54-C1",
+        "x-powered-by": "Express"
+      },
+      "body": {
+        "gdpr": {
+          "additionsChangeDate": "2025-12-17T07:52:35.730Z",
+          "getMessageAlways": false,
+          "legalBasisChangeDate": "2026-01-21T07:48:42.244Z",
+          "sample": true,
+          "version": 43,
+          "_id": "6737291d4f9aeeecb4619905",
+          "applies": true,
+          "sampleRate": 0.05
+        }
+      }
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2026-01-29T21:04:31.137263",
+      "method": "GET",
+      "url": "https://cmpv2.finn.no/wrapper/v2/messages?hasCsp=true&env=prod&body=%7B%22accountId%22%3A1960%2C%22campaignEnv%22%3A%22prod%22%2C%22campaigns%22%3A%7B%22custom%22%3A%7B%22targetingParams%22%3A%7B%7D%7D%2C%22gdpr%22%3A%7B%22consentStatus%22%3A%7B%7D%2C%22targetingParams%22%3A%7B%7D%7D%7D%2C%22clientMMSOrigin%22%3A%22https%3A%2F%2Fcmpv2.finn.no%22%2C%22hasCSP%22%3Atrue%2C%22includeData%22%3A%7B%22localState%22%3A%7B%22type%22%3A%22string%22%7D%2C%22actions%22%3A%7B%22type%22%3A%22RecordString%22%7D%2C%22cookies%22%3A%7B%22type%22%3A%22RecordString%22%7D%7D%2C%22propertyHref%22%3A%22https%3A%2F%2Fwww.finn.no%2Frealestate%2Fhomes%2Fsearch.html%22%2C%22propertyId%22%3A35386%7D&localState=null&metadata=%7B%22gdpr%22%3A%7B%22applies%22%3Atrue%7D%7D&nonKeyedLocalState=null&ch=5036359565066597229905&scriptVersion=4.39.0&scriptType=unified",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.finn.no/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    "response": {
+      "timestamp": "2026-01-29T21:04:31.256259",
+      "url": "https://cmpv2.finn.no/wrapper/v2/messages?hasCsp=true&env=prod&body=%7B%22accountId%22%3A1960%2C%22campaignEnv%22%3A%22prod%22%2C%22campaigns%22%3A%7B%22custom%22%3A%7B%22targetingParams%22%3A%7B%7D%7D%2C%22gdpr%22%3A%7B%22consentStatus%22%3A%7B%7D%2C%22targetingParams%22%3A%7B%7D%7D%7D%2C%22clientMMSOrigin%22%3A%22https%3A%2F%2Fcmpv2.finn.no%22%2C%22hasCSP%22%3Atrue%2C%22includeData%22%3A%7B%22localState%22%3A%7B%22type%22%3A%22string%22%7D%2C%22actions%22%3A%7B%22type%22%3A%22RecordString%22%7D%2C%22cookies%22%3A%7B%22type%22%3A%22RecordString%22%7D%7D%2C%22propertyHref%22%3A%22https%3A%2F%2Fwww.finn.no%2Frealestate%2Fhomes%2Fsearch.html%22%2C%22propertyId%22%3A35386%7D&localState=null&metadata=%7B%22gdpr%22%3A%7B%22applies%22%3Atrue%7D%7D&nonKeyedLocalState=null&ch=5036359565066597229905&scriptVersion=4.39.0&scriptType=unified",
+      "status": 200,
+      "headers": {
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "cache-control": "max-age=0, s-maxage=1200",
+        "content-encoding": "gzip",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-methods": "GET, PUT, POST, DELETE",
+        "via": "1.1 edd6d90087c4f2b49e182778a2273adc.cloudfront.net (CloudFront)",
+        "access-control-allow-origin": "*",
+        "x-cache": "Miss from cloudfront",
+        "x-amz-cf-id": "XkyJUT_1rg9iMUDFNZiASy-eWh5UqW6BE7xRi4WEEBpBsiZiFCvj-A==",
+        "date": "Thu, 29 Jan 2026 21:04:31 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "vary": "Accept-Encoding",
+        "x-amz-cf-pop": "AMS54-C1",
+        "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept, Authorization, SP_SCRIPT_VERSION"
+      },
+      "body": {
+        "propertyId": 35386,
+        "propertyPriorityData": {
+          "stage_message_limit": 1,
+          "site_id": 35386,
+          "public_campaign_type_priority": [
+            1
+          ],
+          "multi_campaign_enabled": true,
+          "stage_campaign_type_priority": [
+            1
+          ],
+          "public_message_limit": 1
+        },
+        "campaigns": [
+          {
+            "type": "GDPR",
+            "message": {
+              "message_json": {
+                "message_json_string": "{\"type\":\"Notice\",\"name\":\"TCF/1 No 3.0.2\",\"settings\":{\"languages\":{\"EN\":{\"iframeTitle\":\"<p>Cookie settings</p>\"},\"NO\":{\"iframeTitle\":\"<p>Cookieinnstillinger</p>\"}},\"iframeTitle\":\"<p>Cookieinnstillinger</p>\",\"selected_privacy_manager\":{\"type\":12,\"data\":{\"button_text\":\"1769674179951\",\"privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640\",\"consent_origin\":\"https://sourcepoint.mgr.consensu.org/tcfv2\"},\"master_privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640\"},\"width\":{\"type\":\"px\",\"value\":625},\"padding\":{\"paddingLeft\":16,\"paddingRight\":16,\"paddingTop\":24,\"paddingBottom\":0},\"selectedLanguage\":\"NO\",\"showVeil\":true,\"showClose\":false,\"defaultLanguage\":\"NO\",\"border\":{\"borderWidth\":0,\"borderColor\":\"#000000\",\"borderTopLeftRadius\":16,\"borderTopRightRadius\":16,\"borderBottomLeftRadius\":16,\"borderBottomRightRadius\":16,\"borderStyle\":\"solid\"},\"useSafeArea\":true,\"supportedLanguages\":[\"NO\",\"EN\"],\"previewLanguage\":\"NO\",\"background\":\"#ffffff\"},\"children\":[{\"type\":\"Row\",\"name\":\"Row\",\"settings\":{\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"selectedLanguage\":\"NO\"},\"children\":[{\"type\":\"Row\",\"name\":\"Row\",\"settings\":{\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":16},\"selectedLanguage\":\"NO\",\"align\":\"space-between\",\"vertical\":\"flex-start\",\"width\":{\"type\":\"%\",\"value\":100}},\"children\":[{\"type\":\"Column\",\"name\":\"Column\",\"settings\":{\"padding\":{\"paddingLeft\":2,\"paddingRight\":2,\"paddingTop\":2,\"paddingBottom\":2},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"width\":{\"type\":\"auto\",\"value\":100},\"align\":\"center\",\"selectedLanguage\":\"NO\",\"vertical\":\"center\",\"background\":\"#E1E7EB\"},\"children\":[{\"type\":\"Row\",\"name\":\"Row\",\"settings\":{\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"align\":\"flex-start\",\"vertical\":\"center\",\"width\":{\"type\":\"auto\",\"value\":100},\"selectedLanguage\":\"NO\"},\"children\":[{\"type\":\"Column\",\"name\":\"Column\",\"settings\":{\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"align\":\"flex-start\",\"vertical\":\"center\",\"selectedLanguage\":\"NO\",\"width\":{\"type\":\"auto\",\"value\":100}},\"children\":[{\"type\":\"Image\",\"name\":\"Image\",\"settings\":{\"width\":{\"type\":\"px\",\"value\":32},\"height\":{\"type\":\"px\",\"value\":32},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"border\":{\"borderWidth\":0,\"borderColor\":\"#000000\",\"borderTopLeftRadius\":0,\"borderTopRightRadius\":0,\"borderBottomLeftRadius\":0,\"borderBottomRightRadius\":0,\"borderStyle\":\"solid\"},\"url\":\"https://static.pro.cmp.m10s.io/cmp/vend_logo_20250311.svg\",\"alt\":\"Vend logo\",\"selectedLanguage\":\"NO\"},\"children\":[],\"handle\":\"logo-component\"}]},{\"type\":\"Column\",\"name\":\"Column\",\"settings\":{\"padding\":{\"paddingLeft\":2,\"paddingRight\":2,\"paddingTop\":2,\"paddingBottom\":2},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"align\":\"flex-start\",\"vertical\":\"center\",\"selectedLanguage\":\"NO\",\"width\":{\"type\":\"auto\",\"value\":100},\"background\":\"#ffffff\"},\"children\":[{\"type\":\"Image\",\"name\":\"Image\",\"settings\":{\"url\":\"https://static.pro.cmp.m10s.io/cmp/brands/FINN.svg\",\"alt\":\"FINN logo\",\"width\":{\"type\":\"px\",\"value\":32},\"height\":{\"type\":\"px\",\"value\":32},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"border\":{\"borderWidth\":0,\"borderColor\":\"#000000\",\"borderTopLeftRadius\":0,\"borderTopRightRadius\":0,\"borderBottomLeftRadius\":0,\"borderBottomRightRadius\":0,\"borderStyle\":\"solid\"},\"selectedLanguage\":\"NO\"},\"children\":[],\"handle\":\"logo-component\"},{\"type\":\"Image\",\"name\":\"Image\",\"settings\":{\"url\":\"https://static.pro.cmp.m10s.io/cmp/brands/none.svg\",\"alt\":\"none logo\",\"width\":{\"type\":\"px\",\"value\":32},\"height\":{\"type\":\"px\",\"value\":32},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"border\":{\"borderWidth\":0,\"borderColor\":\"#000000\",\"borderTopLeftRadius\":0,\"borderTopRightRadius\":0,\"borderBottomLeftRadius\":0,\"borderBottomRightRadius\":0,\"borderStyle\":\"solid\"},\"selectedLanguage\":\"NO\"},\"children\":[],\"handle\":\"logo-component\"},{\"type\":\"Image\",\"name\":\"Image\",\"settings\":{\"url\":\"https://static.pro.cmp.m10s.io/cmp/brands/none.svg\",\"alt\":\"none logo\",\"width\":{\"type\":\"px\",\"value\":32},\"height\":{\"type\":\"px\",\"value\":32},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"border\":{\"borderWidth\":0,\"borderColor\":\"#000000\",\"borderTopLeftRadius\":0,\"borderTopRightRadius\":0,\"borderBottomLeftRadius\":0,\"borderBottomRightRadius\":0,\"borderStyle\":\"solid\"},\"selectedLanguage\":\"NO\"},\"children\":[],\"handle\":\"logo-component\"}],\"handle\":\"brands-logos logos-gap\"}],\"handle\":\"logos-gap\"}],\"handle\":\"logos-col\"},{\"type\":\"Column\",\"name\":\"Column\",\"settings\":{\"width\":{\"type\":\"auto\",\"value\":100},\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"selectedLanguage\":\"NO\",\"align\":\"center\",\"vertical\":\"center\"},\"children\":[{\"type\":\"Text\",\"name\":\"Text\",\"settings\":{\"languages\":{\"SV\":{\"text\":\"<p>Cookieinställningar</p>\"},\"NO\":{\"text\":\"<p>Cookieinnstillinger</p>\"},\"EN\":{\"text\":\"<p>Cookie settings</p>\"}},\"text\":\"<p>Cookieinnstillinger</p>\",\"heading\":\"h1\",\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"selectedLanguage\":\"NO\",\"font\":{\"fontSize\":24,\"fontWeight\":\"700\",\"color\":\"#000000\",\"fontFamily\":\"arial, helvetica, sans-serif\"}},\"children\":[]}]}],\"handle\":\"top-bar\"},{\"type\":\"Text\",\"name\":\"Text\",\"settings\":{\"languages\":{\"EN\":{\"text\":\"<p>We use cookies to ensure quality of service for you. By accepting cookies, you agree that Vend and our <a class=\\\"link-privacy-manager\\\" href=\\\"javascript:void(0);\\\" target=\\\"_blank\\\" aria-label=\\\"message-link\\\" data-choice=\\\"1703169043690\\\">$$!VC-ALL!$$ partners</a>, can use cookies, device IDs and other data stored and/or accessed on your device on FINN to collect personal data, such as information about the pages you’ve visited for the following purposes:</p>\"},\"FI\":{\"text\":\"<p>Käytämme evästeitä palveluidemme laadun takaamiseksi. Hyväksymällä evästeet sallit, että Schibsted Suomi Oy ja sen $$!VC-ALL!$$ mainontakumppania voivat tallentaa tietoja tai käyttää tietoja laitteellesi, kuten evästeitä ja laitetunnuksia FINN-palvelussa kerätäkseen henkilötietoja kuten tietoja vierailemistasi sivuista, seuraaviin tarkoituksiin:</p>\"},\"SV\":{\"text\":\"<p>Vi använder cookies för att säkerställa kvaliteten på tjänsterna vi levererar till dig. Genom att acceptera cookies godkänner du att Schibsted $$country$$ och våra $$!VC-ALL!$$ partners kan använda cookies, enhets-id:n och andra data som är lagrade och/eller nås på din enhet på FINN för att samla in personuppgifter, till exempel information om de sidor du har besökt, för följande ändamål:</p>\"},\"NO\":{\"text\":\"<p>Vi bruker cookies for å sikre kvaliteten på tjenestene våre. Når du godtar cookies, godtar du at Vend og våre <a class=\\\"link-privacy-manager\\\" href=\\\"javascript:void(0);\\\" target=\\\"_blank\\\" aria-label=\\\"message-link\\\" data-choice=\\\"1730802871283\\\">$$!VC-ALL!$$ partnere</a> kan bruke cookies, enhets-IDer og andre data som lagres og/eller vi får tilgang til på din enhet fra FINN, til å samle inn persondata, slik som informasjon om hvilke sider du har besøkt, for disse formålene:</p>\"}},\"text\":\"<p>Vi bruker cookies for å sikre kvaliteten på tjenestene våre. Når du godtar cookies, godtar du at Vend og våre <a class=\\\"link-privacy-manager\\\" href=\\\"javascript:void(0);\\\" target=\\\"_blank\\\" aria-label=\\\"message-link\\\" data-choice=\\\"1730802871283\\\">$$!VC-ALL!$$ partnere</a> kan bruke cookies, enhets-IDer og andre data som lagres og/eller vi får tilgang til på din enhet fra FINN, til å samle inn persondata, slik som informasjon om hvilke sider du har besøkt, for disse formålene:</p>\",\"selectedLanguage\":\"NO\",\"choice_options\":[{\"type\":12,\"data\":{\"button_text\":\"1625742562343\",\"privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors\",\"consent_origin\":\"https://sourcepoint.mgr.consensu.org/tcfv2\"},\"master_privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640\"},{\"type\":12,\"data\":{\"button_text\":\"1625742591289\",\"privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors\",\"consent_origin\":\"https://sourcepoint.mgr.consensu.org/tcfv2\"},\"master_privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640\"},{\"type\":12,\"data\":{\"button_text\":\"1701343066017\",\"privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors\",\"consent_origin\":\"https://sourcepoint.mgr.consensu.org/tcfv2\"},\"master_privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640\"},{\"type\":12,\"data\":{\"button_text\":\"1703169043690\",\"privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors\",\"consent_origin\":\"https://sourcepoint.mgr.consensu.org/tcfv2\"},\"master_privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640\"},{\"type\":12,\"data\":{\"button_text\":\"1730802871283\",\"privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors\",\"consent_origin\":\"https://sourcepoint.mgr.consensu.org/tcfv2\"},\"master_privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640\"}],\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":16},\"font\":{\"fontSize\":16,\"fontWeight\":\"400\",\"color\":\"#000000\",\"fontFamily\":\"arial, helvetica, sans-serif\"},\"link\":{\"fontWeight\":\"400\",\"color\":\"#000000\",\"textDecoration\":\"underline\"},\"hover\":{\"fontWeight\":\"400\",\"color\":\"#020B23\",\"textDecoration\":\"underline\"}},\"children\":[],\"handle\":\"text-component\"},{\"type\":\"Stacks\",\"name\":\"Stacks\",\"settings\":{\"accordionsFont\":{\"fontSize\":16,\"fontWeight\":\"700\",\"color\":\"#000000\",\"fontFamily\":\"arial, helvetica, sans-serif\"},\"panelFont\":{\"fontSize\":16,\"fontWeight\":\"400\",\"color\":\"#020B23\",\"fontFamily\":\"arial, helvetica, sans-serif\"},\"accordionsSpacing\":{\"paddingLeft\":0,\"paddingRight\":16,\"paddingTop\":16,\"paddingBottom\":16},\"panelSpacing\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"selectedLanguage\":\"NO\",\"maxHeight\":{\"type\":\"auto\",\"value\":400}},\"children\":[]},{\"type\":\"Row\",\"name\":\"Row\",\"settings\":{\"selectedLanguage\":\"NO\",\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0}},\"children\":[{\"type\":\"Text\",\"name\":\"Text\",\"settings\":{\"languages\":{\"EN\":{\"text\":\"<p>Select “Manage or reject” to make choices regarding your consents or to deny the processing of data based on legitimate interest. You can change your settings at any time using the link “Cookie settings” on the service's site.</p>\"},\"FI\":{\"text\":\"<p>Valitse Evästeiden hallinta, jos haluat muokata suostumuksiasi tai kieltää tietojen käytön oikeutetun edun perusteella. Voit muuttaa omia asetuksiasi milloin tahansa palveluidemme sivustojen alareunasta löytyvän Evästeasetukset-linkin kautta.</p>\"},\"SV\":{\"text\":\"<p>Välj “Hantera cookies” för att hantera dina samtycken eller för att avvisa användningen av data baserat på berättigat intresse. Du kan när som helst ändra dina inställningar genom att använda länken “Cookieinställningar” på tjänstens sida.</p>\"},\"NO\":{\"text\":\"<p>Velg “Tilpass eller avvis” for å håndtere samtykkene dine eller avvise behandlingen av data basert på berettiget interesse. Du kan når som helst endre innstillingene dine via lenken “Cookieinnstillinger” på tjenestens side.</p>\"}},\"text\":\"<p>Velg “Tilpass eller avvis” for å håndtere samtykkene dine eller avvise behandlingen av data basert på berettiget interesse. Du kan når som helst endre innstillingene dine via lenken “Cookieinnstillinger” på tjenestens side.</p>\",\"selectedLanguage\":\"NO\",\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":16,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":16},\"font\":{\"fontSize\":16,\"fontWeight\":\"400\",\"color\":\"#000000\",\"fontFamily\":\"arial, helvetica, sans-serif\"}},\"children\":[],\"handle\":\"\"}],\"handle\":\"\"},{\"type\":\"Row\",\"name\":\"Row\",\"settings\":{\"selectedLanguage\":\"NO\",\"padding\":{\"paddingLeft\":12,\"paddingRight\":12,\"paddingTop\":12,\"paddingBottom\":12},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":16},\"background\":\"#CCEAFF\",\"border\":{\"borderWidth\":0,\"borderColor\":\"#000000\",\"borderTopLeftRadius\":8,\"borderTopRightRadius\":8,\"borderBottomLeftRadius\":8,\"borderBottomRightRadius\":8,\"borderStyle\":\"solid\"}},\"children\":[{\"type\":\"Text\",\"name\":\"Text\",\"settings\":{\"languages\":{\"EN\":{\"text\":\"<p>If you log in or are currently logged in, your choices will be saved and applied when you later log into websites and mobile apps from: .</p>\"},\"FI\":{\"text\":\"<p>Valitse Evästeiden hallinta, jos haluat muokata suostumuksiasi tai kieltää tietojen käytön oikeutetun edun perusteella. Voit muuttaa omia asetuksiasi milloin tahansa palveluidemme sivustojen alareunasta löytyvän Evästeasetukset-linkin kautta.</p>\"},\"SV\":{\"text\":\"<p>Välj “Hantera cookies” för att hantera dina samtycken eller för att avvisa användningen av data baserat på berättigat intresse. Du kan när som helst ändra dina inställningar genom att använda länken “Cookieinställningar” på tjänstens sida.</p>\"},\"NO\":{\"text\":\"<p>Om du logger inn eller allerede er innlogget, blir valgene dine lagret og vil gjelde for senere innlogginger på nettstedene og appene til: .</p>\"}},\"text\":\"<p>Om du logger inn eller allerede er innlogget, blir valgene dine lagret og vil gjelde for senere innlogginger på nettstedene og appene til: .</p>\",\"selectedLanguage\":\"NO\",\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"font\":{\"fontSize\":16,\"fontWeight\":\"400\",\"color\":\"#000000\",\"fontFamily\":\"arial, helvetica, sans-serif\"}},\"children\":[],\"handle\":\"\"}],\"handle\":\"brand-level-consent \"},{\"type\":\"Row\",\"name\":\"Row\",\"settings\":{\"selectedLanguage\":\"NO\",\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0}},\"children\":[{\"type\":\"Text\",\"name\":\"Text\",\"settings\":{\"languages\":{\"EN\":{\"text\":\"<p><a href=\\\"https://vend.com/privacy/no-policy\\\" target=\\\"_blank\\\" aria-label=\\\"message-link\\\">Privacy and cookie policy</a></p>\"},\"FI\":{\"text\":\"<p><a href=\\\"https://info.privacy.schibsted.com/fi/tietosuoja-ja-evastekaytannot/\\\" target=\\\"_blank\\\" aria-label=\\\"message-link\\\">Tietosuoja- ja evästekäytäntö</a></p>\"},\"SV\":{\"text\":\"<p><a href=\\\"https://info.privacy.schibsted.com/se/schibsted-sverige-personuppgiftspolicy/\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\">Personuppgifts- och cookiepolicy</a></p>\"},\"NO\":{\"text\":\"<p><a href=\\\"https://vend.com/privacy/no-policy\\\" target=\\\"_blank\\\" aria-label=\\\"message-link\\\">Personvern- og cookieerklæring</a></p>\"}},\"text\":\"<p><a href=\\\"https://vend.com/privacy/no-policy\\\" target=\\\"_blank\\\" aria-label=\\\"message-link\\\">Personvern- og cookieerklæring</a></p>\",\"selectedLanguage\":\"NO\",\"startFocus\":false,\"padding\":{\"paddingLeft\":1,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"link\":{\"fontWeight\":\"400\",\"color\":\"#000000\",\"textDecoration\":\"underline\"},\"hover\":{\"fontWeight\":\"400\",\"color\":\"#711e17\",\"textDecoration\":\"none\"},\"font\":{\"fontSize\":16,\"fontWeight\":\"400\",\"color\":\"#000000\",\"fontFamily\":\"arial, helvetica, sans-serif\"}},\"children\":[],\"handle\":\"link\"}],\"handle\":\"mobile-row\"}],\"handle\":\"container\"},{\"type\":\"Row\",\"name\":\"Row\",\"settings\":{\"align\":\"center\",\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"padding\":{\"paddingLeft\":0,\"paddingRight\":0,\"paddingTop\":0,\"paddingBottom\":0},\"width\":{\"type\":\"auto\",\"value\":100},\"selectedLanguage\":\"NO\",\"border\":{\"borderWidth\":0,\"borderColor\":\"#000000\",\"borderTopLeftRadius\":0,\"borderTopRightRadius\":0,\"borderBottomLeftRadius\":16,\"borderBottomRightRadius\":16,\"borderStyle\":\"solid\"}},\"children\":[{\"type\":\"Button\",\"name\":\"Button\",\"settings\":{\"languages\":{\"NO\":{\"text\":\"Godta alle\"},\"EN\":{\"text\":\"Accept all\"}},\"choice_option\":{\"type\":11,\"data\":{\"button_text\":\"1702023187263\",\"consent_origin\":\"https://sourcepoint.mgr.consensu.org/tcfv2\",\"consent_language\":\"EN\"}},\"padding\":{\"paddingLeft\":16,\"paddingRight\":16,\"paddingTop\":12,\"paddingBottom\":12},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":16},\"font\":{\"fontSize\":16,\"fontWeight\":\"700\",\"color\":\"#ffffff\",\"fontFamily\":\"arial, helvetica, sans-serif\"},\"background\":\"#000000\",\"border\":{\"borderWidth\":0,\"borderColor\":\"#061A57\",\"borderTopLeftRadius\":5,\"borderTopRightRadius\":5,\"borderBottomLeftRadius\":5,\"borderBottomRightRadius\":5,\"borderStyle\":\"solid\"},\"selectedLanguage\":\"NO\",\"text\":\"Godta alle\"},\"children\":[],\"handle\":\"primary\"},{\"type\":\"Button\",\"name\":\"Button\",\"settings\":{\"languages\":{\"NO\":{\"text\":\"Tilpass eller avvis\"},\"EN\":{\"text\":\"Manage or reject\"}},\"choice_option\":{\"type\":12,\"data\":{\"button_text\":\"1702023121495\",\"privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640\",\"consent_origin\":\"https://sourcepoint.mgr.consensu.org/tcfv2\"},\"master_privacy_manager_iframe_url\":\"https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640\"},\"padding\":{\"paddingLeft\":16,\"paddingRight\":16,\"paddingTop\":10,\"paddingBottom\":10},\"margin\":{\"marginLeft\":0,\"marginRight\":0,\"marginTop\":0,\"marginBottom\":0},\"font\":{\"fontSize\":16,\"fontWeight\":\"700\",\"color\":\"#000000\",\"fontFamily\":\"arial, helvetica, sans-serif\"},\"background\":\"#ffffff\",\"border\":{\"borderWidth\":2,\"borderColor\":\"#000000\",\"borderTopLeftRadius\":5,\"borderTopRightRadius\":5,\"borderBottomLeftRadius\":5,\"borderBottomRightRadius\":5,\"borderStyle\":\"solid\"},\"selectedLanguage\":\"NO\",\"text\":\"Tilpass eller avvis\"},\"children\":[],\"handle\":\"secondary\"}],\"handle\":\"btns-container\"}],\"compliance_status\":true,\"compliance_list\":[{\"1\":true},{\"2\":true},{\"3\":true},{\"4\":true},{\"5\":true},{\"6\":true},{\"7\":true},{\"8\":true},{\"9\":true},{\"10\":true},{\"11\":true}],\"css\":\"@font-face {\\n    font-family: 'Vend Sans';\\n    font-style: normal;\\n    font-weight: 400;\\n    font-display: swap;\\n    src: url(https://static.pro.cmp.m10s.io/cmp/fonts/VendSans-Regular.woff2) format('woff2');\\n    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\\n}\\n\\n@font-face {\\n    font-family: 'Vend Sans';\\n    font-style: normal;\\n    font-weight: 700;\\n    font-display: swap;\\n    src: url(https://static.pro.cmp.m10s.io/cmp/fonts/VendSans-Bold.woff2) format('woff2');\\n    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\\n}\\n\\n* {\\n    font-family: 'Vend Sans', sans-serif !important;\\n    box-sizing: border-box !important;\\n    transition: unset !important;\\n    line-height: 150% !important;\\n}\\n\\n@media (min-width: 600px) {\\n    .link > a:hover,\\n    .text-component > a:hover {\\n        color: #711e17 !important;\\n        text-decoration: none !important;\\n    }\\n    .text:not(h1) {\\n        font-size: 18px !important;\\n    }\\n}\\n\\n.link > a:focus,\\n.text-component > a:focus {\\n    outline: 2px solid #6eaad4 !important;\\n    border-radius: 8px;\\n}\\n\\n.message-button { border-radius: 24px !important; }\\n.message-button:hover {\\n    opacity: 1 !important;\\n}\\n@media (min-width: 600px) {\\n    .message-button.primary:hover {\\n        background: #2b2b30 !important;\\n    }\\n    .message-button.secondary:hover {\\n        background: #eceff2 !important;\\n    }\\n}\\n\\n.message-button.primary:active {\\n    background: #47474f !important;\\n}\\n.message-button.secondary:active {\\n    background: #e1e7eb !important;\\n}\\n\\n.message-button:focus {\\n    outline: 2px solid #6eaad4 !important;\\n    outline-offset: 2px;\\n    box-shadow: none;\\n}\\n\\nh1 {\\n    line-height: 130% !important;\\n    word-break: break-all;\\n}\\n\\n.message {\\n    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.25);\\n}\\n\\n.btns-container {\\n    flex-direction: column !important; \\n    align-items: stretch !important; \\n    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.25);\\n}\\n\\n.navigation-button {\\n    box-shadow: 0px 2px 4px 0px rgba(113, 117, 134, 0.45) !important;\\n}\\n\\n.brand-level-consent:not(.true) {\\n    display: none;\\n}\\n\\n.message-stacks {\\n    border-radius: 20px 20px 0px 0px;\\n}\\n\\n.message-stacks .panel {\\n    border-bottom: 0;\\n    padding-left: 56px;\\n    padding-bottom: 16px;\\n    padding-right: 16px;\\n}\\n\\n.message-stacks .accordion {\\n    box-shadow: none;\\n    padding-left: 56px !important;\\n}\\n\\n.message-stacks .accordion:focus {\\n    outline: none;\\n}\\n.message-stacks .accordion:focus-visible:before {\\n    content: '';\\n    position: absolute;\\n    top: 0;\\n    bottom: 0;\\n    left: 0;\\n    right: 0;\\n    border-radius: 16px;\\n    border: 2px solid #6eaad4;\\n    pointer-events: none;\\n}\\n\\n.chevron {\\n    width: 24px;\\n    height: 31px;\\n    display: flex;\\n    align-items: center;\\n    justify-content: center;\\n    top: 50%;\\n    transform: translateY(-50%);\\n    left: 8px;\\n}\\n\\n.chevron:before {\\n    background-image: url('https://static.pro.cmp.m10s.io/cmp/chevron_down_20231017.svg');\\n    width: 12px !important;\\n    height: 7px !important;\\n    border: 0 !important;\\n    transform: rotate(0deg) !important;\\n    position: static;\\n    transition: 0.2s;\\n}\\n\\n.chevron.up:before {\\n    transform: rotate(180deg) !important;\\n}\\n\\n.logo-component {\\n    border-radius: 50% !important;\\n}\\n\\n.logo-component[alt=\\\"none logo\\\"] {\\n    display: none;\\n}\\n\\n.top-bar {\\n    flex-direction: column !important;\\n    gap: 8px;\\n    align-items: flex-start;\\n}\\n\\n.logos-col {\\n    border-radius: 100px !important;\\n}\\n\\n.container::-webkit-scrollbar {\\n  width: 4px;\\n}\\n.container::-webkit-scrollbar-thumb {\\n  border-radius: 32px;\\n  background-color: #E4E4E1;\\n}\\n\\n@media (max-width: 599px) {\\n    .message-container {\\n        height: 100%;\\n    }\\n    .container {\\n        overflow: scroll;\\n        /*height: calc(100vh - 40px - 25px - 24px - 160px - env(safe-area-inset-bottom) - env(safe-area-inset-top)) !important;*/\\n        height: calc(100% - 160px) !important;\\n        padding-right: 16px !important;\\n        display: block;\\n    }\\n    .message {\\n        display: block;\\n        margin: 40px 24px 25px;\\n        height: calc(100% - 40px - 25px) !important;\\n        overflow: hidden;\\n    }\\n    .navigation-button {\\n        font-size: 12.6px !important;\\n        padding: 4px 12px !important;\\n    }\\n    .text-component {\\n        margin-bottom: 8px !important;\\n    }\\n    .btns-container {\\n        padding: 24px 16px !important;\\n        box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.25);\\n        margin: 0 -16px !important;\\n    }\\n    .message-safe-area {\\n        overflow: hidden;\\n    }\\n}\\n\\n\\n@media (min-width: 600px) {\\n    .message {\\n        border-radius: 20px !important;\\n        padding: 40px 32px 0 32px !important;\\n        margin: 24px 0;\\n    }\\n    .top-bar {\\n        margin-bottom: 24px !important;\\n        flex-direction: row-reverse !important;\\n        align-items: center !important;\\n    }\\n    .btns-container { \\n        margin-left: -32px !important;\\n        margin-right: -32px !important;\\n        padding: 32px 32px 40px !important;\\n        border-bottom-left-radius: 20px !important;\\n        border-bottom-right-radius: 20px !important;\\n    }\\n    .logo-component {\\n        width: 40px !important;\\n        height: 40px !important;\\n    }\\n    h1 {\\n        font-size: 32px !important;\\n        padding-top: 0 !important;\\n    }\\n    .container {\\n        max-height: calc(100vh - 48px - 40px - 184px);\\n        overflow: auto;\\n    }\\n}\\n\\n.message-stacks .stack:hover { background: transparent; }\\n.message-stacks .stack:has( > .active) {\\n    background-color: #F6F7F9;\\n}\\n.stack-container > .stack:first-of-type {\\n    border-radius: 20px 20px 0px 0px;\\n}\\n.panel .description-bullet {\\n    display: none;\\n}\\n\\n.message-stacks .accordion {\\n    display: flex;\\n    flex-direction: column;\\n    align-items: flex-start;\\n    justify-content: flex-start;\\n}\\n\\n.stack-container > .stack > .accordion::after {\\n    color: #303130;\\n    font-size: 12.6px;\\n    padding: 4px 8px;\\n    background: #E4E4E1;\\n    border-radius: 12px;\\n    line-height: 150%;\\n    font-weight: 700;\\n    margin-top: 8px;\\n}\\n\\n.message-stacks .stack {\\n    background: #E1E7EB;\\n}\\n\\n.message-stacks .stack:not(:last-child) {\\n    border-bottom: 2px solid #C4C8CF;\\n}\\n\\n.container {\\n    flex-direction: column !important;\\n}\\n\\n.text-component > .bluebox {\\n    background-color: #CCEAFF;\\n    border-radius: 8px;\\n    padding: 16px;\\n    display: block;\\n    margin-bottom: 16px;\\n}\\n\\n.brands-logos {\\n    flex-direction: row;\\n    border-radius: 100px !important;\\n}\\n\\n.logos-gap {\\n    gap: 4px;\\n}\\n\\n@media (max-width: 320px) {\\n    h1 {\\n        font-size: 18px !important;\\n    }\\n    .accordion {\\n        font-size: 12.6px !important;\\n    }\\n    .text-component, .text:not(h1) {\\n        font-size: 12.6px !important;\\n    }\\n    .logo-component {\\n        width: 28px !important;\\n        height: 28px !important;\\n    }\\n    .message-button {\\n        font-size: 12.6px !important;\\n        padding: 5px 10px !important;\\n    }\\n    .container {\\n        padding-bottom: 44px !important;\\n    }\\n}\\n\\n@media (min-width: 600px) {\\n    .container {\\n        padding-right: 4px !important;\\n        padding-bottom: 15px !important;\\n        gap: 8px;\\n    }\\n}\\n\\n\\n\",\"handle\":\"level1\"}",
+                "name": "TCF/1 No 3.0.2",
+                "type": "Notice",
+                "settings": {
+                  "languages": {
+                    "EN": {
+                      "iframeTitle": "<p>Cookie settings</p>"
+                    },
+                    "NO": {
+                      "iframeTitle": "<p>Cookieinnstillinger</p>"
+                    }
+                  },
+                  "iframeTitle": "<p>Cookieinnstillinger</p>",
+                  "selected_privacy_manager": {
+                    "type": 12,
+                    "data": {
+                      "button_text": "1769674179951",
+                      "privacy_manager_iframe_url": "https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640",
+                      "consent_origin": "https://sourcepoint.mgr.consensu.org/tcfv2"
+                    },
+                    "master_privacy_manager_iframe_url": "https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640"
+                  },
+                  "width": {
+                    "type": "px",
+                    "value": 625
+                  },
+                  "padding": {
+                    "paddingLeft": 16,
+                    "paddingRight": 16,
+                    "paddingTop": 24,
+                    "paddingBottom": 0
+                  },
+                  "selectedLanguage": "NO",
+                  "showVeil": true,
+                  "showClose": false,
+                  "defaultLanguage": "NO",
+                  "border": {
+                    "borderWidth": 0,
+                    "borderColor": "#000000",
+                    "borderTopLeftRadius": 16,
+                    "borderTopRightRadius": 16,
+                    "borderBottomLeftRadius": 16,
+                    "borderBottomRightRadius": 16,
+                    "borderStyle": "solid"
+                  },
+                  "useSafeArea": true,
+                  "supportedLanguages": [
+                    "NO",
+                    "EN"
+                  ],
+                  "previewLanguage": "NO",
+                  "background": "#ffffff"
+                },
+                "signature": [
+                  60,
+                  248,
+                  213,
+                  88,
+                  148,
+                  65,
+                  15,
+                  21,
+                  148,
+                  171,
+                  142,
+                  191,
+                  179,
+                  235,
+                  231,
+                  222,
+                  139,
+                  158,
+                  218,
+                  130,
+                  148,
+                  202,
+                  11,
+                  121,
+                  177,
+                  104,
+                  251,
+                  4,
+                  93,
+                  108,
+                  185,
+                  64,
+                  42,
+                  171,
+                  56,
+                  79,
+                  164,
+                  192,
+                  101,
+                  179,
+                  68,
+                  80,
+                  118,
+                  237,
+                  182,
+                  14,
+                  232,
+                  207,
+                  7,
+                  90,
+                  70,
+                  13,
+                  6,
+                  183,
+                  201,
+                  84,
+                  165,
+                  54,
+                  244,
+                  173,
+                  87,
+                  240,
+                  2,
+                  11
+                ]
+              },
+              "message_choice": [
+                {
+                  "choice_id": 16435729,
+                  "type": 15,
+                  "iframe_url": null,
+                  "button_text": "Dismiss"
+                },
+                {
+                  "choice_id": 16435730,
+                  "type": 12,
+                  "iframe_url": "https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors",
+                  "button_text": "1625742562343"
+                },
+                {
+                  "choice_id": 16435731,
+                  "type": 12,
+                  "iframe_url": "https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors",
+                  "button_text": "1625742591289"
+                },
+                {
+                  "choice_id": 16435732,
+                  "type": 12,
+                  "iframe_url": "https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors",
+                  "button_text": "1701343066017"
+                },
+                {
+                  "choice_id": 16435733,
+                  "type": 12,
+                  "iframe_url": "https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors",
+                  "button_text": "1703169043690"
+                },
+                {
+                  "choice_id": 16435734,
+                  "type": 12,
+                  "iframe_url": "https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640&pmTab=vendors",
+                  "button_text": "1730802871283"
+                },
+                {
+                  "choice_id": 16435735,
+                  "type": 11,
+                  "iframe_url": null,
+                  "button_text": "1702023187263"
+                },
+                {
+                  "choice_id": 16435736,
+                  "type": 12,
+                  "iframe_url": "https://notice.sp-prod.net/privacy-manager/index.html?message_id=1162640",
+                  "button_text": "1702023121495"
+                }
+              ],
+              "site_id": 35386,
+              "language": "en"
+            },
+            "url": "https://cdn.privacy-mgmt.com/index.html?message_id=1427790&consentLanguage=en&preload_message=true&version=v1",
+            "messageMetaData": {
+              "messageId": 1427790,
+              "prtnUUID": "3bb58495-8fdd-480a-be4c-f6bbc3f02e7c",
+              "msgDescription": "",
+              "bucket": 567,
+              "categoryId": 1,
+              "subCategoryId": 5
+            },
+            "actions": [],
+            "cookies": [],
+            "euconsent": "CQeyl4AQeyl4AAGABCENCPFgAAAAAELAABpYAAASSgDADoAIQAdIBMoC2QJJAAhgAIBCAAAA.YAAAAAAAAAAA",
+            "grants": {
+              "5e7ced57b8e05c5a7d171cda": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ab23": false
+                }
+              },
+              "5f6dbc28a22863aa44428837": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false
+                }
+              },
+              "5f117325b8e05c065164a42c": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": true,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "5e7ced57b8e05c4854221bb8": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ace6": false
+                }
+              },
+              "5e7ced57b8e05c47e418b74b": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814ac3b": false
+                }
+              },
+              "5eb559d0b8e05c6f984a390b": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ab23": false
+                }
+              },
+              "5e37fc3e56a5e6615502f9c9": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814ac3b": false
+                }
+              },
+              "5ef5c3a4b8e05c69980eaa58": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "5ebee9f5b8e05c43d547d7d1": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814ac3b": false
+                }
+              },
+              "5e7ced57b8e05c485246cce2": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false
+                }
+              },
+              "5f1aada6b8e05c306c0597d7": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ace6": false,
+                  "6737291dba5637053814ab23": false
+                }
+              },
+              "5e7ced57b8e05c485246ccd8": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "62a312aa293cdf1b5e6a2509": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ace6": false
+                }
+              },
+              "5f9be0a9a228636148510755": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ace6": false
+                }
+              },
+              "5eab3d5ab8e05c241a63c5db": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ace6": false,
+                  "6737291dba5637053814ab23": false
+                }
+              },
+              "5e7ced57b8e05c4854221bd0": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ace6": false
+                }
+              },
+              "5eb559d0b8e05c48537f6209": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "61bc5c28293cdf31f47899f9": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814ac3b": true
+                }
+              },
+              "5ee15bc6b8e05c164c398ae3": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ace6": false,
+                  "6737291dba5637053814ab23": false
+                }
+              },
+              "5e7ced57b8e05c47e418b73e": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "5e865b36b8e05c48537f60a7": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "5e37fc3e56a5e66147767231": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ace6": false
+                }
+              },
+              "5e7ced57b8e05c4854221bba": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ab23": false
+                }
+              },
+              "6501d3eb4f9aee41f126ba25": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814ac3b": false
+                }
+              },
+              "5f0838a5b8e05c2e742a3aa7": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ad91": false,
+                  "6737291dba5637053814abaa": false,
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false,
+                  "6737291dba5637053814ace6": false,
+                  "6737291dba5637053814ab23": false
+                }
+              },
+              "5e37fc3e56a5e6615502f9d0": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814aaae": true,
+                  "6737291dba5637053814ac3b": true,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "5e37fc3e56a5e6615502f9c7": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814aaae": false,
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "60cc6b2da228632d8e254476": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "5e37fc3e56a5e66147767235": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ac3b": false
+                }
+              },
+              "5e37fc3e56a5e66147767238": {
+                "vendorGrant": true,
+                "purposeGrants": {
+                  "6737291dba5637053814ac3b": true
+                }
+              },
+              "5e7ced57b8e05c485246ccf3": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "5eab3d5bb8e05c48537f61a0": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ac3b": false
+                }
+              },
+              "5e37fc3e56a5e60e003a7114": {
+                "vendorGrant": false,
+                "purposeGrants": {}
+              },
+              "5e37fc3e56a5e6615457a52b": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "6737291dba5637053814ac3b": false,
+                  "6737291dba5637053814ad1c": false
+                }
+              },
+              "5e7ced57b8e05c47d7081587": {
+                "vendorGrant": true,
+                "purposeGrants": {
+                  "6737291dba5637053814ac3b": true
+                }
+              },
+              "6384d8c94f9aee7f19325aae": {
+                "vendorGrant": true,
+                "purposeGrants": {
+                  "6737291dba5637053814ac3b": true,
+                  "6737291dba5637053814ad1c": true,
+                  "6737291dba5637053814ace6": true
+                }
+              },
+              "6206306f26dca405c13b1d5d": {
+                "vendorGrant": false,
+                "purposeGrants": {
+                  "67372a42aadc0106510fcb86": false,
+                  "67372a42aadc0106510fcb8c": false,
+                  "67372a42aadc0106510fcb92": false,
+                  "6737291dba5637053814ae65": false,
+                  "67372a42aadc0106510fcb98": true
+                }
+              }
+            },
+            "addtlConsent": "2~~dv.",
+            "customVendorsResponse": {
+              "consentedVendors": [],
+              "consentedPurposes": [],
+              "legIntPurposes": [
+                {
+                  "_id": "6737291dba5637053814aaae",
+                  "name": "Use limited data to select advertising"
+                },
+                {
+                  "_id": "6737291dba5637053814ac3b",
+                  "name": "Measure advertising performance"
+                },
+                {
+                  "_id": "6737291dba5637053814ad1c",
+                  "name": "Develop and improve services"
+                },
+                {
+                  "_id": "6737291dba5637053814ace6",
+                  "name": "Understand audiences through statistics or combinations of data from different sources"
+                }
+              ]
+            },
+            "childPmId": null,
+            "dateCreated": "2026-01-29T21:04:31.158Z",
+            "expirationDate": "2026-07-28T21:04:31.158Z",
+            "consentStatus": {
+              "rejectedAny": false,
+              "rejectedLI": false,
+              "consentedAll": false,
+              "granularStatus": {
+                "vendorConsent": "NONE",
+                "vendorLegInt": "ALL",
+                "purposeConsent": "NONE",
+                "purposeLegInt": "ALL",
+                "previousOptInAll": false,
+                "defaultConsent": true
+              },
+              "hasConsentData": false,
+              "consentedToAny": false
+            }
+          },
+          {
+            "type": "custom"
+          }
+        ],
+        "errors": [],
+        "localState": "{\"gdpr\":{\"mmsCookies\":[\"_sp_v1_ss=1:H4sIAAAAAAAAAItWqo5RKimOUbKKxsrIAzEMamN1YpRSQcy80pwcILsErKC6lgwJpVgAEA5-UnQAAAA%3D\"],\"propertyId\":35386,\"messageId\":1427790},\"custom\":{\"mmsCookies\":[],\"propertyId\":35386}}",
+        "nonKeyedLocalState": "{\"gdpr\":{\"_sp_v1_data\":\"1227607\",\"_sp_v1_p\":\"567\"},\"custom\":{}}"
+      }
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2026-01-29T21:04:32.203428",
+      "method": "GET",
+      "url": "https://www.finn.no/realestate/homes/api/podium-resource/searchContext/api?",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.finn.no/realestate/homes/search.html",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    "response": {
+      "timestamp": "2026-01-29T21:04:32.413475",
+      "url": "https://www.finn.no/realestate/homes/api/podium-resource/searchContext/api?",
+      "status": 200,
+      "headers": {
+        "content-encoding": "br",
+        "etag": "W/\"1ae4-1+GB0Kg6Kd3uAKT/AhRTTDfSTrE\"",
+        "x-content-type-options": "nosniff",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "date": "Thu, 29 Jan 2026 21:04:32 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "vary": "Accept-Encoding",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=31536000",
+        "cache-control": "no-store",
+        "x-dns-prefetch-control": "off",
+        "via": "1.1 google",
+        "access-control-allow-origin": "*",
+        "x-xss-protection": "1; mode=block",
+        "podlet-version": "github-action-job-6434997-32-1",
+        "gealb-bs": "gealb-haproxy-ingress"
+      },
+      "body": {
+        "status": 200,
+        "message": "OK",
+        "data": {
+          "squareMeterPriceAvgLast30Days": 58048,
+          "squareMeterPriceAvg30DaysComparison": 5133,
+          "squareMeterPriceHist": [
+            {
+              "avgSquareMeterPrice": 49105,
+              "ads": 837,
+              "date": "2025-01-01",
+              "dateText": "Jan 2025",
+              "yearMonth": "2025-01",
+              "yearMonthText": "Jan 2025"
+            },
+            {
+              "avgSquareMeterPrice": 54528,
+              "ads": 8320,
+              "date": "2025-02-01",
+              "dateText": "Feb 2025",
+              "yearMonth": "2025-02",
+              "yearMonthText": "Feb 2025"
+            },
+            {
+              "avgSquareMeterPrice": 55752,
+              "ads": 9800,
+              "date": "2025-03-01",
+              "dateText": "Mar 2025",
+              "yearMonth": "2025-03",
+              "yearMonthText": "Mar 2025"
+            },
+            {
+              "avgSquareMeterPrice": 53761,
+              "ads": 9960,
+              "date": "2025-04-01",
+              "dateText": "Apr 2025",
+              "yearMonth": "2025-04",
+              "yearMonthText": "Apr 2025"
+            },
+            {
+              "avgSquareMeterPrice": 54074,
+              "ads": 11827,
+              "date": "2025-05-01",
+              "dateText": "May 2025",
+              "yearMonth": "2025-05",
+              "yearMonthText": "May 2025"
+            },
+            {
+              "avgSquareMeterPrice": 53384,
+              "ads": 11987,
+              "date": "2025-06-01",
+              "dateText": "Jun 2025",
+              "yearMonth": "2025-06",
+              "yearMonthText": "Jun 2025"
+            },
+            {
+              "avgSquareMeterPrice": 52184,
+              "ads": 5735,
+              "date": "2025-07-01",
+              "dateText": "Jul 2025",
+              "yearMonth": "2025-07",
+              "yearMonthText": "Jul 2025"
+            },
+            {
+              "avgSquareMeterPrice": 55130,
+              "ads": 10225,
+              "date": "2025-08-01",
+              "dateText": "Aug 2025",
+              "yearMonth": "2025-08",
+              "yearMonthText": "Aug 2025"
+            },
+            {
+              "avgSquareMeterPrice": 53398,
+              "ads": 11287,
+              "date": "2025-09-01",
+              "dateText": "Sep 2025",
+              "yearMonth": "2025-09",
+              "yearMonthText": "Sep 2025"
+            },
+            {
+              "avgSquareMeterPrice": 52946,
+              "ads": 10458,
+              "date": "2025-10-01",
+              "dateText": "Oct 2025",
+              "yearMonth": "2025-10",
+              "yearMonthText": "Oct 2025"
+            },
+            {
+              "avgSquareMeterPrice": 52860,
+              "ads": 7559,
+              "date": "2025-11-01",
+              "dateText": "Nov 2025",
+              "yearMonth": "2025-11",
+              "yearMonthText": "Nov 2025"
+            },
+            {
+              "avgSquareMeterPrice": 51701,
+              "ads": 3850,
+              "date": "2025-12-01",
+              "dateText": "Dec 2025",
+              "yearMonth": "2025-12",
+              "yearMonthText": "Dec 2025"
+            },
+            {
+              "avgSquareMeterPrice": 58158,
+              "ads": 7637,
+              "date": "2026-01-01",
+              "dateText": "Jan 2026",
+              "yearMonth": "2026-01",
+              "yearMonthText": "Jan 2026"
+            }
+          ],
+          "adsPublishedLast30Days": 8370,
+          "adsPublishedLast30DaysComparison": 4795,
+          "adsPublishedHist": [
+            {
+              "publishedAds": 793,
+              "date": "2025-01-01",
+              "dateText": "Jan 2025",
+              "yearMonth": "2025-01",
+              "yearMonthText": "Jan 2025"
+            },
+            {
+              "publishedAds": 8379,
+              "date": "2025-02-01",
+              "dateText": "Feb 2025",
+              "yearMonth": "2025-02",
+              "yearMonthText": "Feb 2025"
+            },
+            {
+              "publishedAds": 12200,
+              "date": "2025-03-01",
+              "dateText": "Mar 2025",
+              "yearMonth": "2025-03",
+              "yearMonthText": "Mar 2025"
+            },
+            {
+              "publishedAds": 11244,
+              "date": "2025-04-01",
+              "dateText": "Apr 2025",
+              "yearMonth": "2025-04",
+              "yearMonthText": "Apr 2025"
+            },
+            {
+              "publishedAds": 16436,
+              "date": "2025-05-01",
+              "dateText": "May 2025",
+              "yearMonth": "2025-05",
+              "yearMonthText": "May 2025"
+            },
+            {
+              "publishedAds": 11967,
+              "date": "2025-06-01",
+              "dateText": "Jun 2025",
+              "yearMonth": "2025-06",
+              "yearMonthText": "Jun 2025"
+            },
+            {
+              "publishedAds": 3837,
+              "date": "2025-07-01",
+              "dateText": "Jul 2025",
+              "yearMonth": "2025-07",
+              "yearMonthText": "Jul 2025"
+            },
+            {
+              "publishedAds": 14268,
+              "date": "2025-08-01",
+              "dateText": "Aug 2025",
+              "yearMonth": "2025-08",
+              "yearMonthText": "Aug 2025"
+            },
+            {
+              "publishedAds": 11677,
+              "date": "2025-09-01",
+              "dateText": "Sep 2025",
+              "yearMonth": "2025-09",
+              "yearMonthText": "Sep 2025"
+            },
+            {
+              "publishedAds": 10865,
+              "date": "2025-10-01",
+              "dateText": "Oct 2025",
+              "yearMonth": "2025-10",
+              "yearMonthText": "Oct 2025"
+            },
+            {
+              "publishedAds": 6729,
+              "date": "2025-11-01",
+              "dateText": "Nov 2025",
+              "yearMonth": "2025-11",
+              "yearMonthText": "Nov 2025"
+            },
+            {
+              "publishedAds": 3624,
+              "date": "2025-12-01",
+              "dateText": "Dec 2025",
+              "yearMonth": "2025-12",
+              "yearMonthText": "Dec 2025"
+            },
+            {
+              "publishedAds": 7917,
+              "date": "2026-01-01",
+              "dateText": "Jan 2026",
+              "yearMonth": "2026-01",
+              "yearMonthText": "Jan 2026"
+            }
+          ],
+          "clicksFirst8DaysAvgLast30Days": 2635,
+          "clicksFirst8Days30DaysComparison": -81,
+          "clicksFirst8DaysHist": [
+            {
+              "clicks": 2683,
+              "ads": 793,
+              "date": "2025-01-01",
+              "dateText": "Jan 2025",
+              "yearMonth": "2025-01",
+              "yearMonthText": "Jan 2025"
+            },
+            {
+              "clicks": 2721,
+              "ads": 8379,
+              "date": "2025-02-01",
+              "dateText": "Feb 2025",
+              "yearMonth": "2025-02",
+              "yearMonthText": "Feb 2025"
+            },
+            {
+              "clicks": 2724,
+              "ads": 12200,
+              "date": "2025-03-01",
+              "dateText": "Mar 2025",
+              "yearMonth": "2025-03",
+              "yearMonthText": "Mar 2025"
+            },
+            {
+              "clicks": 2593,
+              "ads": 11244,
+              "date": "2025-04-01",
+              "dateText": "Apr 2025",
+              "yearMonth": "2025-04",
+              "yearMonthText": "Apr 2025"
+            },
+            {
+              "clicks": 2536,
+              "ads": 16436,
+              "date": "2025-05-01",
+              "dateText": "May 2025",
+              "yearMonth": "2025-05",
+              "yearMonthText": "May 2025"
+            },
+            {
+              "clicks": 2384,
+              "ads": 11967,
+              "date": "2025-06-01",
+              "dateText": "Jun 2025",
+              "yearMonth": "2025-06",
+              "yearMonthText": "Jun 2025"
+            },
+            {
+              "clicks": 2708,
+              "ads": 3837,
+              "date": "2025-07-01",
+              "dateText": "Jul 2025",
+              "yearMonth": "2025-07",
+              "yearMonthText": "Jul 2025"
+            },
+            {
+              "clicks": 2561,
+              "ads": 14268,
+              "date": "2025-08-01",
+              "dateText": "Aug 2025",
+              "yearMonth": "2025-08",
+              "yearMonthText": "Aug 2025"
+            },
+            {
+              "clicks": 2444,
+              "ads": 11677,
+              "date": "2025-09-01",
+              "dateText": "Sep 2025",
+              "yearMonth": "2025-09",
+              "yearMonthText": "Sep 2025"
+            },
+            {
+              "clicks": 2547,
+              "ads": 10865,
+              "date": "2025-10-01",
+              "dateText": "Oct 2025",
+              "yearMonth": "2025-10",
+              "yearMonthText": "Oct 2025"
+            },
+            {
+              "clicks": 2570,
+              "ads": 6729,
+              "date": "2025-11-01",
+              "dateText": "Nov 2025",
+              "yearMonth": "2025-11",
+              "yearMonthText": "Nov 2025"
+            },
+            {
+              "clicks": 2716,
+              "ads": 3624,
+              "date": "2025-12-01",
+              "dateText": "Dec 2025",
+              "yearMonth": "2025-12",
+              "yearMonthText": "Dec 2025"
+            },
+            {
+              "clicks": 2679,
+              "ads": 5748,
+              "date": "2026-01-01",
+              "dateText": "Jan 2026",
+              "yearMonth": "2026-01",
+              "yearMonthText": "Jan 2026"
+            }
+          ],
+          "notificationAverageLast30Days": 1785,
+          "notificationAverage30DaysComparison": -117,
+          "notificationsAvgHist": [
+            {
+              "emails": 2140,
+              "push": 2140,
+              "ads": 3456,
+              "date": "2025-01-12",
+              "dateText": "Jan 2025",
+              "yearMonth": "2025-01",
+              "yearMonthText": "Jan 2025"
+            },
+            {
+              "emails": 2252,
+              "push": 2252,
+              "ads": 9606,
+              "date": "2025-02-11",
+              "dateText": "Feb 2025",
+              "yearMonth": "2025-02",
+              "yearMonthText": "Feb 2025"
+            },
+            {
+              "emails": 2323,
+              "push": 2323,
+              "ads": 11899,
+              "date": "2025-03-13",
+              "dateText": "Mar 2025",
+              "yearMonth": "2025-03",
+              "yearMonthText": "Mar 2025"
+            },
+            {
+              "emails": 2436,
+              "push": 2436,
+              "ads": 13008,
+              "date": "2025-04-12",
+              "dateText": "Apr 2025",
+              "yearMonth": "2025-04",
+              "yearMonthText": "Apr 2025"
+            },
+            {
+              "emails": 2367,
+              "push": 2367,
+              "ads": 15820,
+              "date": "2025-05-12",
+              "dateText": "May 2025",
+              "yearMonth": "2025-05",
+              "yearMonthText": "May 2025"
+            },
+            {
+              "emails": 2143,
+              "push": 2143,
+              "ads": 8429,
+              "date": "2025-06-11",
+              "dateText": "Jun 2025",
+              "yearMonth": "2025-06",
+              "yearMonthText": "Jun 2025"
+            },
+            {
+              "emails": 2217,
+              "push": 2217,
+              "ads": 6678,
+              "date": "2025-07-11",
+              "dateText": "Jul 2025",
+              "yearMonth": "2025-07",
+              "yearMonthText": "Jul 2025"
+            },
+            {
+              "emails": 2253,
+              "push": 2253,
+              "ads": 13499,
+              "date": "2025-08-10",
+              "dateText": "Aug 2025",
+              "yearMonth": "2025-08",
+              "yearMonthText": "Aug 2025"
+            },
+            {
+              "emails": 2135,
+              "push": 2135,
+              "ads": 11523,
+              "date": "2025-09-09",
+              "dateText": "Sep 2025",
+              "yearMonth": "2025-09",
+              "yearMonthText": "Sep 2025"
+            },
+            {
+              "emails": 1904,
+              "push": 1904,
+              "ads": 9778,
+              "date": "2025-10-09",
+              "dateText": "Oct 2025",
+              "yearMonth": "2025-10",
+              "yearMonthText": "Oct 2025"
+            },
+            {
+              "emails": 2002,
+              "push": 2002,
+              "ads": 5489,
+              "date": "2025-11-08",
+              "dateText": "Nov 2025",
+              "yearMonth": "2025-11",
+              "yearMonthText": "Nov 2025"
+            },
+            {
+              "emails": 1902,
+              "push": 1902,
+              "ads": 4133,
+              "date": "2025-12-08",
+              "dateText": "Dec 2025",
+              "yearMonth": "2025-12",
+              "yearMonthText": "Dec 2025"
+            },
+            {
+              "emails": 1785,
+              "push": 1785,
+              "ads": 6618,
+              "date": "2026-01-07",
+              "dateText": "Jan 2026",
+              "yearMonth": "2026-01",
+              "yearMonthText": "Jan 2026"
+            }
+          ]
+        },
+        "env": "prod"
+      }
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2026-01-29T21:04:42.457767",
+      "method": "GET",
+      "url": "https://sdkconfig.pulse.m10s.io/js/config.json",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.finn.no/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    "response": {
+      "timestamp": "2026-01-29T21:04:42.471051",
+      "url": "https://sdkconfig.pulse.m10s.io/js/config.json",
+      "status": 200,
+      "headers": {
+        "access-control-max-age": "0",
+        "x-amz-version-id": "6dnJ1E145XrFxSEb_PnhBq9hQ8jcPdmE",
+        "etag": "\"4f9e99639c0c17a8ec22b6a2fa423922\"",
+        "age": "47437",
+        "access-control-allow-methods": "GET, HEAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-cache": "Hit from cloudfront",
+        "x-amz-cf-id": "JiHJS40UnxNSwIE6XAoFde3xtzIl7Szgsqk7pE7xgQA0ixKt_to6iA==",
+        "date": "Thu, 29 Jan 2026 07:54:06 GMT",
+        "content-type": "binary/octet-stream",
+        "vary": "Origin,accept-encoding",
+        "last-modified": "Wed, 19 Mar 2025 11:05:25 GMT",
+        "via": "1.1 acc5f68eb88a8e6d59815a0246ec23f0.cloudfront.net (CloudFront)",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-length": "475",
+        "x-amz-cf-pop": "AMS1-P2",
+        "server": "AmazonS3",
+        "x-amz-server-side-encryption": "AES256"
+      },
+      "body": {
+        "version": 1,
+        "ttl-minutes": 1440,
+        "scopes": {
+          "default": {
+            "services": {
+              "cis": "https://cis.m10s.io/",
+              "collector": "https://dc.m10s.io/"
+            }
+          },
+          "rws": {
+            "services": {
+              "cis": "https://cis.pdmp-apis.no/",
+              "collector": "https://dc.m10s.io/"
+            }
+          },
+          "blocket": {
+            "services": {
+              "cis": "https://cis.m10s.io/",
+              "collector": "https://api.blocket.se/beat-be/"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2026-01-29T21:04:42.472356",
+      "method": "POST",
+      "url": "https://cis.m10s.io/api/v2/identify/guest",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.finn.no/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+        "content-type": "application/json",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "{\"anId\":\"\",\"clientId\":\"finn\",\"includeAdvertising\":false,\"jwe\":\"\",\"trackerType\":\"Web\",\"trackerVersion\":\"6.2.2\",\"vendors\":[\"xandr\",\"delta\",\"adform\",\"brandmetrics\"],\"iframeContext\":false}"
+    },
+    "response": {
+      "timestamp": "2026-01-29T21:04:42.646033",
+      "url": "https://cis.m10s.io/api/v2/identify/guest",
+      "status": 200,
+      "headers": {
+        "content-security-policy": "frame-ancestors 'none'",
+        "cache-control": "private, no-cache, proxy-revalidate, max-age=0",
+        "content-encoding": "gzip",
+        "access-control-allow-credentials": "true",
+        "x-content-type-options": "nosniff",
+        "access-control-allow-origin": "https://www.finn.no",
+        "date": "Thu, 29 Jan 2026 21:04:42 GMT",
+        "content-type": "application/json",
+        "vary": "Origin",
+        "server": "CIS",
+        "x-frame-options": "DENY"
+      },
+      "body": {
+        "data": {
+          "jwe": "eyJpc3N1ZWRBdCI6IjIwMjYtMDEtMjlUMjE6MDQ6NDJaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI2LTAxLTI5VDIxOjA0OjQyWiIsImFsZyI6ImRpciIsImtpZCI6IjMifQ..eGkNLvaxUurP2YEKoLAJNg.kiuvLhqRlDLybVHCNM-ixYkUpFUfsiPuwdYWQFi9LJte59EAnbN22-sUE9hDWVU2xlifarrnerhx2QO_XqFkyD-zxu82XnlU1-Oy-jeYRt1xncWXlmh6KtrUEDqEwrml2NgbsKDlq29pvun-1GPt0HqEFpUwtcTkwrYIJiOLwzkHaUsK9LYKYsyCvDzQXUfUmISPvYeFs8Y6EgIO1VoUfTrScW7DrDvyyvUhYUeYkbFMoZw1U7-KnrEiOS2hskeWkiwyQjqQ6d8fXB-6dZq9AHX_l0lUGxxuxDoWaFQOGtY1Cytdg3FYuLbYKHLvJvH2vzV6Q38ReP3dYfksj1QFSaHnmIpKLty7a_WIjbg3_alwRWwcgIPhtCFWHFwTxoj2TrMmok8datefaHDv0lvPId2640HiMhiwEsSM4O2A0s5XBhDMZxe2R2xjN6skBkhDMJ8Pz57e8edzalyPwG21Y-u9TaCqBqJ7Fza9Wyd8Y8_p-4nrN0dp7_UobXg6l2sq6_i2btUjUDL37_XYAHONjaivZ1NAfOChW1dVuR4l1LkWDyacukOMp2B_fmxw2pP6yuAI0jkOGpG3NnAgfDQBWisJ7lsO7nph-IltMYvL3kQ.7XFbIBGy8mM051R7CHQt8A",
+          "environmentId": "9768e421-71b0-44a0-b6da-a2bcd4ba7f07",
+          "doTracking": true,
+          "ppId": {
+            "delta": {
+              "ppId2": "delta-de7008ea7a351ee4a9bbf6eddada2de603a27e247703b1f9c26b1369246d934f"
+            },
+            "xandr": {
+              "ppId2": "eyJraWQiOiIzIiwiYWxnIjoiSFMyNTYifQ--hh9cJeey-v3BFVw70MZ6fiLtM5Kj7Zb2se6wjblBSIQ"
+            },
+            "adform": {
+              "ppId2": "adform-b137163e00b0e25e81f172be32b36a2168ec1c7395ab5e65181dc2fcc324bd86"
+            },
+            "brandmetrics": {
+              "ppId2": "brandmetrics-9c443b1e7b704b45bfe29f812ff3cd1045c2d26d16296026c90ff5a1698347f3"
+            }
+          },
+          "refreshAfter": "2026-02-05T21:04:42Z"
+        },
+        "code": 200,
+        "status": "OK",
+        "type": "cis_identity_v2"
+      }
+    }
+  },
+  {
+    "request": {
+      "timestamp": "2026-01-29T21:04:42.787128",
+      "method": "GET",
+      "url": "https://www.finn.no/realestate/homes/api/podium-resource/contentManagementPodlet/api/advertising/contentful/html/teaser/sov?vertical=realestate",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.finn.no/realestate/homes/search.html",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    "response": {
+      "timestamp": "2026-01-29T21:04:42.897305",
+      "url": "https://www.finn.no/realestate/homes/api/podium-resource/contentManagementPodlet/api/advertising/contentful/html/teaser/sov?vertical=realestate",
+      "status": 200,
+      "headers": {
+        "content-encoding": "br",
+        "etag": "W/\"21f8-eWpqDP/pg8wE9nsSWEEt84H8Kbk\"",
+        "x-content-type-options": "nosniff",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "date": "Thu, 29 Jan 2026 21:04:42 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "vary": "Accept-Encoding",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=31536000",
+        "link": "<https://assets.finn.no/pkg/content-management-podlet/1.0.165/content-management-podlet.js>; type=module; asset-type=script",
+        "cache-control": "no-store",
+        "x-dns-prefetch-control": "off",
+        "via": "1.1 google",
+        "access-control-allow-origin": "*",
+        "x-xss-protection": "1; mode=block",
+        "x-powered-by": "Express",
+        "podlet-version": "v6241171.73.1",
+        "gealb-bs": "gealb-haproxy-ingress"
+      },
+      "body": {
+        "html": "<meta name=\"viewport\" content=\"width=1008\"/><script>\n\t\t(function injectWKWebViewFix() {\n\t\t\tconst ua = navigator.userAgent || '';\n\n\t\t\tconst isIOS = /iPad|iPhone|iPod/.test(ua);\n\t\t\tconst isWKWebView =\n\t\t\t\tisIOS &&\n\t\t\t\ttypeof window.webkit === 'object' &&\n\t\t\t\ttypeof window.webkit.messageHandlers === 'object' &&\n\t\t\t\t!/CriOS|FxiOS|EdgiOS|OPiOS|DuckDuckGo|Mercury/.test(ua); // exclude common non-WK iOS browsers\n\n\t\t\tif (!isWKWebView) return;\n\n\t\t\t// Optional: prevent double injection\n\t\t\tif (document.documentElement.dataset.wkInjected) return;\n\t\t\tdocument.documentElement.dataset.wkInjected = 'true';\n\n\t\t\t// Inject viewport meta tag\n\t\t\tconst meta = document.createElement('meta');\n\t\t\tmeta.name = 'viewport';\n\t\t\tmeta.content = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no';\n\t\t\tdocument.head.appendChild(meta);\n\n\t\t\t// Inject font and layout overrides\n\t\t\tconst style = document.createElement('style');\n\t\t\tstyle.textContent = `\n\t\t\t\t@media (max-width: 768px) {\n\t\t\t\t\tbody, html {\n\t\t\t\t\t\tfont-size: 60% !important;\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\t@media (min-width: 1024px) {\n\t\t\t\t\tbody {\n\t\t\t\t\t\tmax-width: 1008px;\n\t\t\t\t\t\tmargin-inline: auto;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t`;\n\t\t\tdocument.head.appendChild(style);\n\t\t})();\n\t\t</script><!--lit-part BRUAAAUVAAA=--><!--lit-part--><!--lit-part UXQHbrxQKBI=-->\n\t\t\t<!--lit-part Fig9SPtwItY=-->\n\t<link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/@warp-ds/fonts/v1/finn-no.css\" />\n\t<link rel=\"stylesheet\" href=\"https://assets.finn.no/pkg/@warp-ds/css/v2/tokens/finn-no.css\" />\n<!--/lit-part--> \n\t\t\t<!--lit-part XIvGkPl7Xzk=--><div>\n\t\t<!--lit-node 1--><contentful-sponsor-header\n\t\t\tentryId=\"1VzfWkTAiFyBmNSYrhcrEf\"\n\t\t\tsponsorName=\"Landkreditt\"\n\t\t\tlogoImageData=\"{&quot;title&quot;:&quot;landkreditt logo&quot;,&quot;description&quot;:&quot;&quot;,&quot;file&quot;:{&quot;url&quot;:&quot;//images.ctfassets.net/rk69y2iw23ri/g2TSEx0ZDar7iBqVmZLFv/5311fb4c9dd59c61c8bf53ac9e5421a9/landkreditt_logo.png&quot;,&quot;details&quot;:{&quot;size&quot;:72283,&quot;image&quot;:{&quot;width&quot;:1081,&quot;height&quot;:310}},&quot;fileName&quot;:&quot;landkreditt logo.png&quot;,&quot;contentType&quot;:&quot;image/png&quot;}}\"\n\t\t\t\n\t\t></contentful-sponsor-header>\n\t</div><!--/lit-part-->\n\t\t\t\n\t\t\t<!--lit-node 2--><contentful-teaser-wrapper\n\t\t\t\tcreativeId=\"LANDKREDITT-disse-oppgraderingene-lonner-seg-blattkjokken\"\n\t\t\t\tentryId=\"1VzfWkTAiFyBmNSYrhcrEf\"\n\t\t\t\tcontentModel=\"{&quot;metadata&quot;:{&quot;tags&quot;:[],&quot;concepts&quot;:[]},&quot;sys&quot;:{&quot;space&quot;:{&quot;sys&quot;:{&quot;type&quot;:&quot;Link&quot;,&quot;linkType&quot;:&quot;Space&quot;,&quot;id&quot;:&quot;rk69y2iw23ri&quot;}},&quot;id&quot;:&quot;1VzfWkTAiFyBmNSYrhcrEf&quot;,&quot;type&quot;:&quot;Entry&quot;,&quot;createdAt&quot;:&quot;2026-01-13T05:00:10.552Z&quot;,&quot;updatedAt&quot;:&quot;2026-01-21T16:01:55.004Z&quot;,&quot;environment&quot;:{&quot;sys&quot;:{&quot;id&quot;:&quot;master&quot;,&quot;type&quot;:&quot;Link&quot;,&quot;linkType&quot;:&quot;Environment&quot;}},&quot;publishedVersion&quot;:41,&quot;revision&quot;:12,&quot;contentType&quot;:{&quot;sys&quot;:{&quot;type&quot;:&quot;Link&quot;,&quot;linkType&quot;:&quot;ContentType&quot;,&quot;id&quot;:&quot;realEstateContentMarketingTeaser&quot;}},&quot;locale&quot;:&quot;en-US&quot;},&quot;fields&quot;:{&quot;slug&quot;:&quot;LANDKREDITT-disse-oppgraderingene-lonner-seg-blattkjokken&quot;,&quot;kicker&quot;:&quot;5 konkrete råd:&quot;,&quot;title&quot;:&quot;Disse oppgraderingene lønner seg før du selger&quot;,&quot;tagline&quot;:{&quot;data&quot;:{},&quot;content&quot;:[{&quot;data&quot;:{},&quot;content&quot;:[{&quot;data&quot;:{},&quot;marks&quot;:[{&quot;type&quot;:&quot;italic&quot;}],&quot;value&quot;:&quot;Priseks. boliglån: 2 mill kr, innenfor 50 % nom. rente 4,74 %, eff.rente 4,85 %, 25 år nedbet. Tot. 3.417.385 kr.&quot;,&quot;nodeType&quot;:&quot;text&quot;}],&quot;nodeType&quot;:&quot;paragraph&quot;}],&quot;nodeType&quot;:&quot;document&quot;},&quot;url&quot;:&quot;https://www.finn.no/annonsorinnhold/eiendom/landkreditt/fem-smarte-grep-oke-verdien&quot;,&quot;ctaButtonText&quot;:&quot;Les mer&quot;,&quot;shareOfVoice&quot;:20,&quot;advertiserLogo&quot;:{&quot;metadata&quot;:{&quot;tags&quot;:[],&quot;concepts&quot;:[]},&quot;sys&quot;:{&quot;space&quot;:{&quot;sys&quot;:{&quot;type&quot;:&quot;Link&quot;,&quot;linkType&quot;:&quot;Space&quot;,&quot;id&quot;:&quot;rk69y2iw23ri&quot;}},&quot;id&quot;:&quot;g2TSEx0ZDar7iBqVmZLFv&quot;,&quot;type&quot;:&quot;Asset&quot;,&quot;createdAt&quot;:&quot;2026-01-12T14:56:56.002Z&quot;,&quot;updatedAt&quot;:&quot;2026-01-12T14:56:56.002Z&quot;,&quot;environment&quot;:{&quot;sys&quot;:{&quot;id&quot;:&quot;master&quot;,&quot;type&quot;:&quot;Link&quot;,&quot;linkType&quot;:&quot;Environment&quot;}},&quot;publishedVersion&quot;:3,&quot;revision&quot;:1,&quot;locale&quot;:&quot;en-US&quot;},&quot;fields&quot;:{&quot;title&quot;:&quot;landkreditt logo&quot;,&quot;description&quot;:&quot;&quot;,&quot;file&quot;:{&quot;url&quot;:&quot;//images.ctfassets.net/rk69y2iw23ri/g2TSEx0ZDar7iBqVmZLFv/5311fb4c9dd59c61c8bf53ac9e5421a9/landkreditt_logo.png&quot;,&quot;details&quot;:{&quot;size&quot;:72283,&quot;image&quot;:{&quot;width&quot;:1081,&quot;height&quot;:310}},&quot;fileName&quot;:&quot;landkreditt logo.png&quot;,&quot;contentType&quot;:&quot;image/png&quot;}}},&quot;advertiserName&quot;:&quot;Landkreditt&quot;,&quot;mainImage&quot;:{&quot;metadata&quot;:{&quot;tags&quot;:[],&quot;concepts&quot;:[]},&quot;sys&quot;:{&quot;space&quot;:{&quot;sys&quot;:{&quot;type&quot;:&quot;Link&quot;,&quot;linkType&quot;:&quot;Space&quot;,&quot;id&quot;:&quot;rk69y2iw23ri&quot;}},&quot;id&quot;:&quot;52NTrhRcy8wniZB7yBKDnU&quot;,&quot;type&quot;:&quot;Asset&quot;,&quot;createdAt&quot;:&quot;2026-01-12T15:00:59.976Z&quot;,&quot;updatedAt&quot;:&quot;2026-01-12T15:00:59.976Z&quot;,&quot;environment&quot;:{&quot;sys&quot;:{&quot;id&quot;:&quot;master&quot;,&quot;type&quot;:&quot;Link&quot;,&quot;linkType&quot;:&quot;Environment&quot;}},&quot;publishedVersion&quot;:3,&quot;revision&quot;:1,&quot;locale&quot;:&quot;en-US&quot;},&quot;fields&quot;:{&quot;title&quot;:&quot;blåttkjøkken-desk&quot;,&quot;description&quot;:&quot;&quot;,&quot;file&quot;:{&quot;url&quot;:&quot;//images.ctfassets.net/rk69y2iw23ri/52NTrhRcy8wniZB7yBKDnU/eb188dbbf3d99d2d5ab2a28f7c785245/blaÌ_ttkjÃ_kken-desk.jpg&quot;,&quot;details&quot;:{&quot;size&quot;:196902,&quot;image&quot;:{&quot;width&quot;:800,&quot;height&quot;:450}},&quot;fileName&quot;:&quot;blåttkjøkken-desk.jpg&quot;,&quot;contentType&quot;:&quot;image/jpeg&quot;}}},&quot;mobileMainImage&quot;:{&quot;metadata&quot;:{&quot;tags&quot;:[],&quot;concepts&quot;:[]},&quot;sys&quot;:{&quot;space&quot;:{&quot;sys&quot;:{&quot;type&quot;:&quot;Link&quot;,&quot;linkType&quot;:&quot;Space&quot;,&quot;id&quot;:&quot;rk69y2iw23ri&quot;}},&quot;id&quot;:&quot;4Phlb4bX8WQfY2gyHGcCRA&quot;,&quot;type&quot;:&quot;Asset&quot;,&quot;createdAt&quot;:&quot;2026-01-12T15:01:14.677Z&quot;,&quot;updatedAt&quot;:&quot;2026-01-12T15:01:14.677Z&quot;,&quot;environment&quot;:{&quot;sys&quot;:{&quot;id&quot;:&quot;master&quot;,&quot;type&quot;:&quot;Link&quot;,&quot;linkType&quot;:&quot;Environment&quot;}},&quot;publishedVersion&quot;:3,&quot;revision&quot;:1,&quot;locale&quot;:&quot;en-US&quot;},&quot;fields&quot;:{&quot;title&quot;:&quot;blåttkjøkken-mobil&quot;,&quot;description&quot;:&quot;&quot;,&quot;file&quot;:{&quot;url&quot;:&quot;//images.ctfassets.net/rk69y2iw23ri/4Phlb4bX8WQfY2gyHGcCRA/e2df9090b54e3bfcc7a80990e7d520c0/blaÌ_ttkjÃ_kken-mobil.jpg&quot;,&quot;details&quot;:{&quot;size&quot;:200142,&quot;image&quot;:{&quot;width&quot;:800,&quot;height&quot;:600}},&quot;fileName&quot;:&quot;blåttkjøkken-mobil.jpg&quot;,&quot;contentType&quot;:&quot;image/jpeg&quot;}}},&quot;hideAdTag&quot;:false}}\"\n\t\t\t></contentful-teaser-wrapper>\n\t\t</div>\n\t<!--/lit-part--><!--/lit-part--><?><!--/lit-part--><!--lit-part t5gdEvd+Bp8=-->\n\t\t\t<!--lit-node 0--><div\n\t\t\t\tid=\"podlet-meta-data\"\n\t\t\t\tdata-platform=\"web\"\n\t\t\t\tdata-is-web-view=\"false\"\n\t\t\t\tdata-dark-mode=\"false\"\n\t\t\t\tdata-landscape-mode=\"false\"\n\t\t\t\tdata-base-url=\"https://www.finn.no/realestate/homes/api/podium-resource/contentManagementPodlet\"\n\t\t\t\tdata-locale=\"nb\"\n\t\t\t\tdata-vertical=\"realestate\"\n\t\t\t\tdata-subvertical=\"\"\n\t\t\t\tdata-page-type=\"\"\n\t\t\t></div>\n\t\t<!--/lit-part-->"
+      }
+    }
+  }
+]

@@ -1,5 +1,5 @@
 import { chromium, Browser, BrowserContext, Page } from 'playwright';
-import { ScraperLogger } from '@shared/logger.js';
+import { ScraperLogger } from './logger.js';
 import { normalizeProperty, extractListingsFromPage } from './parser.js';
 import type { FinnConfig, SearchOptions, FinnProperty, TransactionType, CityInfo, PageListing } from './types.js';
 
